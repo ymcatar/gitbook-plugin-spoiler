@@ -1,0 +1,18 @@
+{
+    "name": "gitbook-plugin-spoiler",
+    "description": "Spoiler plugin for GitBook, for hiding answers or informations.",
+    "main": "index.js",
+    "version": "0.0.1",
+    "engines": {
+        "gitbook": ">1.x.x"
+    },
+    "homepage": "https://github.com/ymcatar/gitbook-plugin-spoiler",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ymcatar/gitbook-plugin-spoiler.git"
+    },
+    "license": "Apache 2",
+    "bugs": {
+        "url": "https://github.com/ymcatar/gitbook-plugin-spoiler/issues"
+    }
+}
